@@ -1,0 +1,19 @@
+crates/zizmor/src/audit/cache_poisoning.rs
+  s_266067de9b8daa::t_acd4b84b33c3f1 241-246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fa60bed6dadd2a9341e3cfe10b80f626bf65d8c4",
+  "prompts": {},
+  "sessions": {
+    "s_266067de9b8daa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d68e-d942-73d0-b477-22efaac76d59",
+        "model": "unknown"
+      },
+      "human_author": "sapphi-red <green@sapphi.red>"
+    }
+  }
+}
